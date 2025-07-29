@@ -1,3 +1,4 @@
+![ANANAS Logo](assets/logo.png)
 # 🍍 ANANAS  
 **Autonomous Network And Nullification Against Surveillance**  
 *Open-source framework for wireless pentest and digital freedom.*
