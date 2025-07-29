@@ -1,5 +1,5 @@
 # ANANAS
-
+ANANAS is an independent open-source project and is not affiliated with, endorsed by, or associated with Hak5 or the WiFi Pineapple product.
 **Autonomous Network And Nullification Against Surveillance**  
 *Open-source framework for wireless pentest and digital freedom.*
 
